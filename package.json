@@ -1,0 +1,22 @@
+{
+  "name": "website-todo-list",
+  "version": "1.0.0",
+  "description": "Build a to-do list on a website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo 'We are making a new app'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HLVN-1/website-todo-list.git"
+  },
+  "author": "Jason Newsom <jnewsom405@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HLVN-1/website-todo-list/issues"
+  },
+  "homepage": "https://github.com/HLVN-1/website-todo-list#readme",
+  "dependencies": {
+    "browser-sync": "^3.0.2"
+  }
+}
