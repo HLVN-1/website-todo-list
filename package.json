@@ -4,7 +4,8 @@
   "description": "Build a to-do list on a website",
   "main": "index.html",
   "scripts": {
-    "test": "echo 'We are making a new app'"
+    "test": "echo 'We are making a new app'",
+    "start": "browser-sync start --server"
   },
   "repository": {
     "type": "git",
